@@ -1,0 +1,1 @@
+C:\Users\Pramod.Vinayak\Documents\Visual Studio 2012\Projects\idisposable-best-practices-csharp-developers\materials\2-idisposable-bp-csharp-developers-exercise-files\After\GetDate\GetDate.ConsoleApp\bin\Debug\GetDate.ConsoleApp.exe.config
